@@ -1,0 +1,11 @@
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\bin\Debug\StandUp.exe.config
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\bin\Debug\StandUp.exe
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\bin\Debug\StandUp.pdb
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.csprojAssemblyReference.cache
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.UI.NowStandUp.resources
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.Properties.Resources.resources
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.UI.SettingsForm.resources
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.csproj.GenerateResource.cache
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.csproj.CoreCompileInputs.cache
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.exe
+C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.pdb

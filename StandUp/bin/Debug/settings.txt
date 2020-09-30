@@ -1,0 +1,9 @@
+﻿TotalSeconds=1200
+StandUpSeconds=30
+AllowEscapingMessage=True
+Message=Stand Up Now ...
+RedSeconds=60
+AllowSnooze=False
+AllowPrepareNotification=True
+MessageFadeInSeconds=3
+SnoozeSeconds=60
