@@ -9,3 +9,15 @@ C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.
 C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.csproj.CoreCompileInputs.cache
 C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.exe
 C:\Software\standup\sourceCode\sourceCode\StandUp\StandUp\obj\x86\Debug\StandUp.pdb
+C:\Users\f.bekran\src\standup\StandUp\bin\Debug\StandUp.exe.config
+C:\Users\f.bekran\src\standup\StandUp\bin\Debug\StandUp.exe
+C:\Users\f.bekran\src\standup\StandUp\bin\Debug\StandUp.pdb
+C:\Users\f.bekran\src\standup\StandUp\obj\x86\Debug\StandUp.csproj.AssemblyReference.cache
+C:\Users\f.bekran\src\standup\StandUp\obj\x86\Debug\StandUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.bekran\src\standup\StandUp\obj\x86\Debug\StandUp.UI.NowStandUp.resources
+C:\Users\f.bekran\src\standup\StandUp\obj\x86\Debug\StandUp.Properties.Resources.resources
+C:\Users\f.bekran\src\standup\StandUp\obj\x86\Debug\StandUp.UI.SettingsForm.resources
+C:\Users\f.bekran\src\standup\StandUp\obj\x86\Debug\StandUp.csproj.GenerateResource.cache
+C:\Users\f.bekran\src\standup\StandUp\obj\x86\Debug\StandUp.csproj.CoreCompileInputs.cache
+C:\Users\f.bekran\src\standup\StandUp\obj\x86\Debug\StandUp.exe
+C:\Users\f.bekran\src\standup\StandUp\obj\x86\Debug\StandUp.pdb

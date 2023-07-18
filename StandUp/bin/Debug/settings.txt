@@ -1,4 +1,4 @@
-﻿TotalSeconds=1200
+﻿TotalSeconds=900
 StandUpSeconds=30
 AllowEscapingMessage=True
 Message=Stand Up Now ...
